@@ -7,3 +7,7 @@
 
 ### Interviewing, Job Finding
 * [Cracking the Code Interview, McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478285)
+
+
+### Code quality, etc
+* [https://www.amazon.com/Robert-Martins-Clean-Software-Craftmanship/dp/B08X2T3DCZ/](https://www.amazon.com/Robert-Martins-Clean-Software-Craftmanship/dp/B08X2T3DCZ/)
