@@ -10,4 +10,4 @@
 
 
 ### Code quality, etc
-* [https://www.amazon.com/Robert-Martins-Clean-Software-Craftmanship/dp/B08X2T3DCZ/](https://www.amazon.com/Robert-Martins-Clean-Software-Craftmanship/dp/B08X2T3DCZ/)
+* [Clean Code - Robert Martin](https://www.amazon.com/Robert-Martins-Clean-Software-Craftmanship/dp/B08X2T3DCZ/)
